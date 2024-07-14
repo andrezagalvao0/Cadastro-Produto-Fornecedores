@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CadastroProdutosFornecedores</name>
+    </assembly>
+    <members>
+        <member name="M:CadastroProdutosFornecedores.Controllers.ProdutosController.AdicionarProduto(CadastroProdutosFornecedores.Core.Entities.Produto)">
+            <summary>
+            EndPoint para cadastro de produto -  passar null no campo fornecedorId, pois não há necessidade de passar 
+            o ID do fornecedor no cadstro do produto
+            </summary>
+            <param name="produto"></param>
+            <returns></returns>
+        </member>
+        <member name="T:CadastroProdutosFornecedores.Migrations.InitialCreate">
+            <inheritdoc />
+        </member>
+        <member name="M:CadastroProdutosFornecedores.Migrations.InitialCreate.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:CadastroProdutosFornecedores.Migrations.InitialCreate.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:CadastroProdutosFornecedores.Migrations.InitialCreate.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:CadastroProdutosFornecedores.Migrations.MakeFornecedorIdOptional">
+            <inheritdoc />
+        </member>
+        <member name="M:CadastroProdutosFornecedores.Migrations.MakeFornecedorIdOptional.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:CadastroProdutosFornecedores.Migrations.MakeFornecedorIdOptional.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:CadastroProdutosFornecedores.Migrations.MakeFornecedorIdOptional.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

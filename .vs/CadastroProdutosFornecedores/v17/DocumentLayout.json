@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andreza Galvao\\Documents\\TesteGenialNet\\CadastroProdutosFornecedores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DFFB3D-292A-4294-BD4C-346767E90C32}|CadastroProdutosFornecedoresTest\\CadastroProdutosFornecedoresTest.csproj|c:\\users\\andreza galvao\\documents\\testegenialnet\\cadastroprodutosfornecedores\\cadastroprodutosfornecedorestest\\produtoservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DFFB3D-292A-4294-BD4C-346767E90C32}|CadastroProdutosFornecedoresTest\\CadastroProdutosFornecedoresTest.csproj|solutionrelative:cadastroprodutosfornecedorestest\\produtoservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DFFB3D-292A-4294-BD4C-346767E90C32}|CadastroProdutosFornecedoresTest\\CadastroProdutosFornecedoresTest.csproj|c:\\users\\andreza galvao\\documents\\testegenialnet\\cadastroprodutosfornecedores\\cadastroprodutosfornecedorestest\\fornecedorservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DFFB3D-292A-4294-BD4C-346767E90C32}|CadastroProdutosFornecedoresTest\\CadastroProdutosFornecedoresTest.csproj|solutionrelative:cadastroprodutosfornecedorestest\\fornecedorservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCCA87A-A508-4D34-8230-98E93202B2BD}|CadastroProdutosFornecedores\\CadastroProdutosFornecedores.csproj|c:\\users\\andreza galvao\\documents\\testegenialnet\\cadastroprodutosfornecedores\\cadastroprodutosfornecedores\\infrastructure\\data\\repositories\\ifornecedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCCA87A-A508-4D34-8230-98E93202B2BD}|CadastroProdutosFornecedores\\CadastroProdutosFornecedores.csproj|solutionrelative:cadastroprodutosfornecedores\\infrastructure\\data\\repositories\\ifornecedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCCA87A-A508-4D34-8230-98E93202B2BD}|CadastroProdutosFornecedores\\CadastroProdutosFornecedores.csproj|c:\\users\\andreza galvao\\documents\\testegenialnet\\cadastroprodutosfornecedores\\cadastroprodutosfornecedores\\infrastructure\\data\\repositories\\fornecedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCCA87A-A508-4D34-8230-98E93202B2BD}|CadastroProdutosFornecedores\\CadastroProdutosFornecedores.csproj|solutionrelative:cadastroprodutosfornecedores\\infrastructure\\data\\repositories\\fornecedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCCA87A-A508-4D34-8230-98E93202B2BD}|CadastroProdutosFornecedores\\CadastroProdutosFornecedores.csproj|c:\\users\\andreza galvao\\documents\\testegenialnet\\cadastroprodutosfornecedores\\cadastroprodutosfornecedores\\core\\services\\viacepservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCCA87A-A508-4D34-8230-98E93202B2BD}|CadastroProdutosFornecedores\\CadastroProdutosFornecedores.csproj|solutionrelative:cadastroprodutosfornecedores\\core\\services\\viacepservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCCA87A-A508-4D34-8230-98E93202B2BD}|CadastroProdutosFornecedores\\CadastroProdutosFornecedores.csproj|c:\\users\\andreza galvao\\documents\\testegenialnet\\cadastroprodutosfornecedores\\cadastroprodutosfornecedores\\core\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCCA87A-A508-4D34-8230-98E93202B2BD}|CadastroProdutosFornecedores\\CadastroProdutosFornecedores.csproj|solutionrelative:cadastroprodutosfornecedores\\core\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCCA87A-A508-4D34-8230-98E93202B2BD}|CadastroProdutosFornecedores\\CadastroProdutosFornecedores.csproj|c:\\users\\andreza galvao\\documents\\testegenialnet\\cadastroprodutosfornecedores\\cadastroprodutosfornecedores\\core\\services\\fornecedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCCA87A-A508-4D34-8230-98E93202B2BD}|CadastroProdutosFornecedores\\CadastroProdutosFornecedores.csproj|solutionrelative:cadastroprodutosfornecedores\\core\\services\\fornecedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCCA87A-A508-4D34-8230-98E93202B2BD}|CadastroProdutosFornecedores\\CadastroProdutosFornecedores.csproj|c:\\users\\andreza galvao\\documents\\testegenialnet\\cadastroprodutosfornecedores\\cadastroprodutosfornecedores\\core\\entities\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCCA87A-A508-4D34-8230-98E93202B2BD}|CadastroProdutosFornecedores\\CadastroProdutosFornecedores.csproj|solutionrelative:cadastroprodutosfornecedores\\core\\entities\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCCA87A-A508-4D34-8230-98E93202B2BD}|CadastroProdutosFornecedores\\CadastroProdutosFornecedores.csproj|c:\\users\\andreza galvao\\documents\\testegenialnet\\cadastroprodutosfornecedores\\cadastroprodutosfornecedores\\core\\entities\\produtofornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCCA87A-A508-4D34-8230-98E93202B2BD}|CadastroProdutosFornecedores\\CadastroProdutosFornecedores.csproj|solutionrelative:cadastroprodutosfornecedores\\core\\entities\\produtofornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCCA87A-A508-4D34-8230-98E93202B2BD}|CadastroProdutosFornecedores\\CadastroProdutosFornecedores.csproj|c:\\users\\andreza galvao\\documents\\testegenialnet\\cadastroprodutosfornecedores\\cadastroprodutosfornecedores\\core\\entities\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCCA87A-A508-4D34-8230-98E93202B2BD}|CadastroProdutosFornecedores\\CadastroProdutosFornecedores.csproj|solutionrelative:cadastroprodutosfornecedores\\core\\entities\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCCA87A-A508-4D34-8230-98E93202B2BD}|CadastroProdutosFornecedores\\CadastroProdutosFornecedores.csproj|c:\\users\\andreza galvao\\documents\\testegenialnet\\cadastroprodutosfornecedores\\cadastroprodutosfornecedores\\controllers\\fornecedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCCA87A-A508-4D34-8230-98E93202B2BD}|CadastroProdutosFornecedores\\CadastroProdutosFornecedores.csproj|solutionrelative:cadastroprodutosfornecedores\\controllers\\fornecedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCCA87A-A508-4D34-8230-98E93202B2BD}|CadastroProdutosFornecedores\\CadastroProdutosFornecedores.csproj|c:\\users\\andreza galvao\\documents\\testegenialnet\\cadastroprodutosfornecedores\\cadastroprodutosfornecedores\\infrastructure\\data\\repositories\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCCA87A-A508-4D34-8230-98E93202B2BD}|CadastroProdutosFornecedores\\CadastroProdutosFornecedores.csproj|solutionrelative:cadastroprodutosfornecedores\\infrastructure\\data\\repositories\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCCA87A-A508-4D34-8230-98E93202B2BD}|CadastroProdutosFornecedores\\CadastroProdutosFornecedores.csproj|c:\\users\\andreza galvao\\documents\\testegenialnet\\cadastroprodutosfornecedores\\cadastroprodutosfornecedores\\core\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCCA87A-A508-4D34-8230-98E93202B2BD}|CadastroProdutosFornecedores\\CadastroProdutosFornecedores.csproj|solutionrelative:cadastroprodutosfornecedores\\core\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCCA87A-A508-4D34-8230-98E93202B2BD}|CadastroProdutosFornecedores\\CadastroProdutosFornecedores.csproj|c:\\users\\andreza galvao\\documents\\testegenialnet\\cadastroprodutosfornecedores\\cadastroprodutosfornecedores\\controllers\\produtoscontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCCA87A-A508-4D34-8230-98E93202B2BD}|CadastroProdutosFornecedores\\CadastroProdutosFornecedores.csproj|solutionrelative:cadastroprodutosfornecedores\\controllers\\produtoscontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCCA87A-A508-4D34-8230-98E93202B2BD}|CadastroProdutosFornecedores\\CadastroProdutosFornecedores.csproj|c:\\users\\andreza galvao\\documents\\testegenialnet\\cadastroprodutosfornecedores\\cadastroprodutosfornecedores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCCA87A-A508-4D34-8230-98E93202B2BD}|CadastroProdutosFornecedores\\CadastroProdutosFornecedores.csproj|solutionrelative:cadastroprodutosfornecedores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCCA87A-A508-4D34-8230-98E93202B2BD}|CadastroProdutosFornecedores\\CadastroProdutosFornecedores.csproj|c:\\users\\andreza galvao\\documents\\testegenialnet\\cadastroprodutosfornecedores\\cadastroprodutosfornecedores\\cadastroprodutosfornecedores.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3CCCA87A-A508-4D34-8230-98E93202B2BD}|CadastroProdutosFornecedores\\CadastroProdutosFornecedores.csproj|solutionrelative:cadastroprodutosfornecedores\\cadastroprodutosfornecedores.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCCA87A-A508-4D34-8230-98E93202B2BD}|CadastroProdutosFornecedores\\CadastroProdutosFornecedores.csproj|c:\\users\\andreza galvao\\documents\\testegenialnet\\cadastroprodutosfornecedores\\cadastroprodutosfornecedores\\infrastructure\\data\\context\\applicationdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCCA87A-A508-4D34-8230-98E93202B2BD}|CadastroProdutosFornecedores\\CadastroProdutosFornecedores.csproj|solutionrelative:cadastroprodutosfornecedores\\infrastructure\\data\\context\\applicationdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCCA87A-A508-4D34-8230-98E93202B2BD}|CadastroProdutosFornecedores\\CadastroProdutosFornecedores.csproj|c:\\users\\andreza galvao\\documents\\testegenialnet\\cadastroprodutosfornecedores\\cadastroprodutosfornecedores\\core\\enums\\unidademedida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCCA87A-A508-4D34-8230-98E93202B2BD}|CadastroProdutosFornecedores\\CadastroProdutosFornecedores.csproj|solutionrelative:cadastroprodutosfornecedores\\core\\enums\\unidademedida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCCA87A-A508-4D34-8230-98E93202B2BD}|CadastroProdutosFornecedores\\CadastroProdutosFornecedores.csproj|c:\\users\\andreza galvao\\documents\\testegenialnet\\cadastroprodutosfornecedores\\cadastroprodutosfornecedores\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3CCCA87A-A508-4D34-8230-98E93202B2BD}|CadastroProdutosFornecedores\\CadastroProdutosFornecedores.csproj|solutionrelative:cadastroprodutosfornecedores\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCCA87A-A508-4D34-8230-98E93202B2BD}|CadastroProdutosFornecedores\\CadastroProdutosFornecedores.csproj|c:\\users\\andreza galvao\\documents\\testegenialnet\\cadastroprodutosfornecedores\\cadastroprodutosfornecedores\\core\\exceptions\\notfoundexception .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCCA87A-A508-4D34-8230-98E93202B2BD}|CadastroProdutosFornecedores\\CadastroProdutosFornecedores.csproj|solutionrelative:cadastroprodutosfornecedores\\core\\exceptions\\notfoundexception .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCCA87A-A508-4D34-8230-98E93202B2BD}|CadastroProdutosFornecedores\\CadastroProdutosFornecedores.csproj|c:\\users\\andreza galvao\\documents\\testegenialnet\\cadastroprodutosfornecedores\\cadastroprodutosfornecedores\\core\\exceptions\\cepnotfoundexception .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCCA87A-A508-4D34-8230-98E93202B2BD}|CadastroProdutosFornecedores\\CadastroProdutosFornecedores.csproj|solutionrelative:cadastroprodutosfornecedores\\core\\exceptions\\cepnotfoundexception .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Andreza Galvao\\Documents\\TesteGenialNet\\CadastroProdutosFornecedores\\CadastroProdutosFornecedoresTest\\ProdutoServiceTests.cs",
+              "RelativeDocumentMoniker": "CadastroProdutosFornecedoresTest\\ProdutoServiceTests.cs",
+              "ToolTip": "C:\\Users\\Andreza Galvao\\Documents\\TesteGenialNet\\CadastroProdutosFornecedores\\CadastroProdutosFornecedoresTest\\ProdutoServiceTests.cs",
+              "RelativeToolTip": "CadastroProdutosFornecedoresTest\\ProdutoServiceTests.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T00:34:36.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FornecedorServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Andreza Galvao\\Documents\\TesteGenialNet\\CadastroProdutosFornecedores\\CadastroProdutosFornecedoresTest\\FornecedorServiceTests.cs",
+              "RelativeDocumentMoniker": "CadastroProdutosFornecedoresTest\\FornecedorServiceTests.cs",
+              "ToolTip": "C:\\Users\\Andreza Galvao\\Documents\\TesteGenialNet\\CadastroProdutosFornecedores\\CadastroProdutosFornecedoresTest\\FornecedorServiceTests.cs",
+              "RelativeToolTip": "CadastroProdutosFornecedoresTest\\FornecedorServiceTests.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAuwFEAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T00:16:56.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FornecedorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Andreza Galvao\\Documents\\TesteGenialNet\\CadastroProdutosFornecedores\\CadastroProdutosFornecedores\\Infrastructure\\Data\\Repositories\\FornecedorRepository.cs",
+              "RelativeDocumentMoniker": "CadastroProdutosFornecedores\\Infrastructure\\Data\\Repositories\\FornecedorRepository.cs",
+              "ToolTip": "C:\\Users\\Andreza Galvao\\Documents\\TesteGenialNet\\CadastroProdutosFornecedores\\CadastroProdutosFornecedores\\Infrastructure\\Data\\Repositories\\FornecedorRepository.cs",
+              "RelativeToolTip": "CadastroProdutosFornecedores\\Infrastructure\\Data\\Repositories\\FornecedorRepository.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAkwCcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T00:12:25.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProdutoService.cs",
+              "DocumentMoniker": "C:\\Users\\Andreza Galvao\\Documents\\TesteGenialNet\\CadastroProdutosFornecedores\\CadastroProdutosFornecedores\\Core\\Services\\ProdutoService.cs",
+              "RelativeDocumentMoniker": "CadastroProdutosFornecedores\\Core\\Services\\ProdutoService.cs",
+              "ToolTip": "C:\\Users\\Andreza Galvao\\Documents\\TesteGenialNet\\CadastroProdutosFornecedores\\CadastroProdutosFornecedores\\Core\\Services\\ProdutoService.cs",
+              "RelativeToolTip": "CadastroProdutosFornecedores\\Core\\Services\\ProdutoService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAIwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T01:00:53.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProdutoFornecedor.cs",
+              "DocumentMoniker": "C:\\Users\\Andreza Galvao\\Documents\\TesteGenialNet\\CadastroProdutosFornecedores\\CadastroProdutosFornecedores\\Core\\Entities\\ProdutoFornecedor.cs",
+              "RelativeDocumentMoniker": "CadastroProdutosFornecedores\\Core\\Entities\\ProdutoFornecedor.cs",
+              "ToolTip": "C:\\Users\\Andreza Galvao\\Documents\\TesteGenialNet\\CadastroProdutosFornecedores\\CadastroProdutosFornecedores\\Core\\Entities\\ProdutoFornecedor.cs",
+              "RelativeToolTip": "CadastroProdutosFornecedores\\Core\\Entities\\ProdutoFornecedor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T21:27:59.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Andreza Galvao\\Documents\\TesteGenialNet\\CadastroProdutosFornecedores\\CadastroProdutosFornecedores\\Infrastructure\\Data\\Repositories\\IProdutoRepository.cs",
+              "RelativeDocumentMoniker": "CadastroProdutosFornecedores\\Infrastructure\\Data\\Repositories\\IProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\Andreza Galvao\\Documents\\TesteGenialNet\\CadastroProdutosFornecedores\\CadastroProdutosFornecedores\\Infrastructure\\Data\\Repositories\\IProdutoRepository.cs",
+              "RelativeToolTip": "CadastroProdutosFornecedores\\Infrastructure\\Data\\Repositories\\IProdutoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T23:36:50.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Andreza Galvao\\Documents\\TesteGenialNet\\CadastroProdutosFornecedores\\CadastroProdutosFornecedores\\Core\\Entities\\Produto.cs",
+              "RelativeDocumentMoniker": "CadastroProdutosFornecedores\\Core\\Entities\\Produto.cs",
+              "ToolTip": "C:\\Users\\Andreza Galvao\\Documents\\TesteGenialNet\\CadastroProdutosFornecedores\\CadastroProdutosFornecedores\\Core\\Entities\\Produto.cs",
+              "RelativeToolTip": "CadastroProdutosFornecedores\\Core\\Entities\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T21:17:51.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FornecedoresController.cs",
+              "DocumentMoniker": "C:\\Users\\Andreza Galvao\\Documents\\TesteGenialNet\\CadastroProdutosFornecedores\\CadastroProdutosFornecedores\\Controllers\\FornecedoresController.cs",
+              "RelativeDocumentMoniker": "CadastroProdutosFornecedores\\Controllers\\FornecedoresController.cs",
+              "ToolTip": "C:\\Users\\Andreza Galvao\\Documents\\TesteGenialNet\\CadastroProdutosFornecedores\\CadastroProdutosFornecedores\\Controllers\\FornecedoresController.cs",
+              "RelativeToolTip": "CadastroProdutosFornecedores\\Controllers\\FornecedoresController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAADwvxMAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T14:28:17.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FornecedorService.cs",
+              "DocumentMoniker": "C:\\Users\\Andreza Galvao\\Documents\\TesteGenialNet\\CadastroProdutosFornecedores\\CadastroProdutosFornecedores\\Core\\Services\\FornecedorService.cs",
+              "RelativeDocumentMoniker": "CadastroProdutosFornecedores\\Core\\Services\\FornecedorService.cs",
+              "ToolTip": "C:\\Users\\Andreza Galvao\\Documents\\TesteGenialNet\\CadastroProdutosFornecedores\\CadastroProdutosFornecedores\\Core\\Services\\FornecedorService.cs",
+              "RelativeToolTip": "CadastroProdutosFornecedores\\Core\\Services\\FornecedorService.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAUwFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T01:18:11.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IFornecedorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Andreza Galvao\\Documents\\TesteGenialNet\\CadastroProdutosFornecedores\\CadastroProdutosFornecedores\\Infrastructure\\Data\\Repositories\\IFornecedorRepository.cs",
+              "RelativeDocumentMoniker": "CadastroProdutosFornecedores\\Infrastructure\\Data\\Repositories\\IFornecedorRepository.cs",
+              "ToolTip": "C:\\Users\\Andreza Galvao\\Documents\\TesteGenialNet\\CadastroProdutosFornecedores\\CadastroProdutosFornecedores\\Infrastructure\\Data\\Repositories\\IFornecedorRepository.cs",
+              "RelativeToolTip": "CadastroProdutosFornecedores\\Infrastructure\\Data\\Repositories\\IFornecedorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T23:41:54.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Fornecedor.cs",
+              "DocumentMoniker": "C:\\Users\\Andreza Galvao\\Documents\\TesteGenialNet\\CadastroProdutosFornecedores\\CadastroProdutosFornecedores\\Core\\Entities\\Fornecedor.cs",
+              "RelativeDocumentMoniker": "CadastroProdutosFornecedores\\Core\\Entities\\Fornecedor.cs",
+              "ToolTip": "C:\\Users\\Andreza Galvao\\Documents\\TesteGenialNet\\CadastroProdutosFornecedores\\CadastroProdutosFornecedores\\Core\\Entities\\Fornecedor.cs",
+              "RelativeToolTip": "CadastroProdutosFornecedores\\Core\\Entities\\Fornecedor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T02:03:16.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViaCepService.cs",
+              "DocumentMoniker": "C:\\Users\\Andreza Galvao\\Documents\\TesteGenialNet\\CadastroProdutosFornecedores\\CadastroProdutosFornecedores\\Core\\Services\\ViaCepService.cs",
+              "RelativeDocumentMoniker": "CadastroProdutosFornecedores\\Core\\Services\\ViaCepService.cs",
+              "ToolTip": "C:\\Users\\Andreza Galvao\\Documents\\TesteGenialNet\\CadastroProdutosFornecedores\\CadastroProdutosFornecedores\\Core\\Services\\ViaCepService.cs",
+              "RelativeToolTip": "CadastroProdutosFornecedores\\Core\\Services\\ViaCepService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAUwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T01:31:38.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProdutosController .cs",
+              "DocumentMoniker": "C:\\Users\\Andreza Galvao\\Documents\\TesteGenialNet\\CadastroProdutosFornecedores\\CadastroProdutosFornecedores\\Controllers\\ProdutosController .cs",
+              "RelativeDocumentMoniker": "CadastroProdutosFornecedores\\Controllers\\ProdutosController .cs",
+              "ToolTip": "C:\\Users\\Andreza Galvao\\Documents\\TesteGenialNet\\CadastroProdutosFornecedores\\CadastroProdutosFornecedores\\Controllers\\ProdutosController .cs",
+              "RelativeToolTip": "CadastroProdutosFornecedores\\Controllers\\ProdutosController .cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T15:26:43.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Endereco.cs",
+              "DocumentMoniker": "C:\\Users\\Andreza Galvao\\Documents\\TesteGenialNet\\CadastroProdutosFornecedores\\CadastroProdutosFornecedores\\Core\\Entities\\Endereco.cs",
+              "RelativeDocumentMoniker": "CadastroProdutosFornecedores\\Core\\Entities\\Endereco.cs",
+              "ToolTip": "C:\\Users\\Andreza Galvao\\Documents\\TesteGenialNet\\CadastroProdutosFornecedores\\CadastroProdutosFornecedores\\Core\\Entities\\Endereco.cs",
+              "RelativeToolTip": "CadastroProdutosFornecedores\\Core\\Entities\\Endereco.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T21:26:12.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Andreza Galvao\\Documents\\TesteGenialNet\\CadastroProdutosFornecedores\\CadastroProdutosFornecedores\\appsettings.json",
+              "RelativeDocumentMoniker": "CadastroProdutosFornecedores\\appsettings.json",
+              "ToolTip": "C:\\Users\\Andreza Galvao\\Documents\\TesteGenialNet\\CadastroProdutosFornecedores\\CadastroProdutosFornecedores\\appsettings.json",
+              "RelativeToolTip": "CadastroProdutosFornecedores\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-12T21:29:29.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CadastroProdutosFornecedores",
+              "DocumentMoniker": "C:\\Users\\Andreza Galvao\\Documents\\TesteGenialNet\\CadastroProdutosFornecedores\\CadastroProdutosFornecedores\\CadastroProdutosFornecedores.csproj",
+              "RelativeDocumentMoniker": "CadastroProdutosFornecedores\\CadastroProdutosFornecedores.csproj",
+              "ToolTip": "C:\\Users\\Andreza Galvao\\Documents\\TesteGenialNet\\CadastroProdutosFornecedores\\CadastroProdutosFornecedores\\CadastroProdutosFornecedores.csproj",
+              "RelativeToolTip": "CadastroProdutosFornecedores\\CadastroProdutosFornecedores.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-12T20:49:17.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andreza Galvao\\Documents\\TesteGenialNet\\CadastroProdutosFornecedores\\CadastroProdutosFornecedores\\Program.cs",
+              "RelativeDocumentMoniker": "CadastroProdutosFornecedores\\Program.cs",
+              "ToolTip": "C:\\Users\\Andreza Galvao\\Documents\\TesteGenialNet\\CadastroProdutosFornecedores\\CadastroProdutosFornecedores\\Program.cs",
+              "RelativeToolTip": "CadastroProdutosFornecedores\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T21:07:47.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext .cs",
+              "DocumentMoniker": "C:\\Users\\Andreza Galvao\\Documents\\TesteGenialNet\\CadastroProdutosFornecedores\\CadastroProdutosFornecedores\\Infrastructure\\Data\\Context\\ApplicationDbContext .cs",
+              "RelativeDocumentMoniker": "CadastroProdutosFornecedores\\Infrastructure\\Data\\Context\\ApplicationDbContext .cs",
+              "ToolTip": "C:\\Users\\Andreza Galvao\\Documents\\TesteGenialNet\\CadastroProdutosFornecedores\\CadastroProdutosFornecedores\\Infrastructure\\Data\\Context\\ApplicationDbContext .cs",
+              "RelativeToolTip": "CadastroProdutosFornecedores\\Infrastructure\\Data\\Context\\ApplicationDbContext .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T16:24:05.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UnidadeMedida.cs",
+              "DocumentMoniker": "C:\\Users\\Andreza Galvao\\Documents\\TesteGenialNet\\CadastroProdutosFornecedores\\CadastroProdutosFornecedores\\Core\\Enums\\UnidadeMedida.cs",
+              "RelativeDocumentMoniker": "CadastroProdutosFornecedores\\Core\\Enums\\UnidadeMedida.cs",
+              "ToolTip": "C:\\Users\\Andreza Galvao\\Documents\\TesteGenialNet\\CadastroProdutosFornecedores\\CadastroProdutosFornecedores\\Core\\Enums\\UnidadeMedida.cs",
+              "RelativeToolTip": "CadastroProdutosFornecedores\\Core\\Enums\\UnidadeMedida.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T21:16:29.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CepNotFoundException .cs",
+              "DocumentMoniker": "C:\\Users\\Andreza Galvao\\Documents\\TesteGenialNet\\CadastroProdutosFornecedores\\CadastroProdutosFornecedores\\Core\\Exceptions\\CepNotFoundException .cs",
+              "RelativeDocumentMoniker": "CadastroProdutosFornecedores\\Core\\Exceptions\\CepNotFoundException .cs",
+              "ToolTip": "C:\\Users\\Andreza Galvao\\Documents\\TesteGenialNet\\CadastroProdutosFornecedores\\CadastroProdutosFornecedores\\Core\\Exceptions\\CepNotFoundException .cs",
+              "RelativeToolTip": "CadastroProdutosFornecedores\\Core\\Exceptions\\CepNotFoundException .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T02:16:24.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NotFoundException .cs",
+              "DocumentMoniker": "C:\\Users\\Andreza Galvao\\Documents\\TesteGenialNet\\CadastroProdutosFornecedores\\CadastroProdutosFornecedores\\Core\\Exceptions\\NotFoundException .cs",
+              "RelativeDocumentMoniker": "CadastroProdutosFornecedores\\Core\\Exceptions\\NotFoundException .cs",
+              "ToolTip": "C:\\Users\\Andreza Galvao\\Documents\\TesteGenialNet\\CadastroProdutosFornecedores\\CadastroProdutosFornecedores\\Core\\Exceptions\\NotFoundException .cs",
+              "RelativeToolTip": "CadastroProdutosFornecedores\\Core\\Exceptions\\NotFoundException .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T02:27:11.383Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
